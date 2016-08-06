@@ -23,7 +23,7 @@ echo "<h2>ワーク登録画面</h2>";
 		<div class="form-group">
 			<label for="contents" class="control-label col-sm-2">スケジュール作成：</label>
 			<div class="col-sm-8">
-			 <input type="text" name="etime" class="form-control" id="datepicker">
+			 <input type="text" class="form-control" id="datepicker">
 				<!-- <input type="text" id="datepicker">-->
 			</div>
 		</div>
