@@ -21,17 +21,10 @@ echo "<h2>ワーク登録画面</h2>";
 			</div>
 		</div>
 		<div class="form-group">
-			<label for="contents" class="control-label col-sm-2">募集締切日：</label>
+			<label for="contents" class="control-label col-sm-2">スケジュール作成：</label>
 			<div class="col-sm-8">
-				<!-- <input type="text" name="etime" class="form-control" id="datepicker">-->
-				<input type="text" id="datepicker">
-			</div>
-		</div>
-
-		<div class="form-group">
-			<label for="contents" class="control-label col-sm-2">ワーク当日：</label>
-			<div class="col-sm-8">
-				<input type="text" name="" class="form-control">
+			 <input type="text" name="etime" class="form-control" id="datepicker">
+				<!-- <input type="text" id="datepicker">-->
 			</div>
 		</div>
 		<div class="form-group">
